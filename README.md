@@ -38,8 +38,8 @@ A scatter plot is used to visualize the actual sales values, while the regressio
 ### Technologies Used
 - Python: Programming language used for the implementation.
 - Libraries:
-      - pandas: For data manipulation and analysis.
-      - numpy: For numerical computations.
-      - matplotlib & seaborn: For data visualization.
-      - scikit-learn: For machine learning and model building.
+  - pandas: For data manipulation and analysis.
+  - numpy: For numerical computations.
+  - matplotlib & seaborn: For data visualization.
+  - scikit-learn: For machine learning and model building.
   
